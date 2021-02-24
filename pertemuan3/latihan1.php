@@ -45,7 +45,6 @@
 				<?php endif; ?>
 				<?php for ($j=1; $j <= 5; $j++) : ?>
 					
-			</tr>
 		<td><?= "$i, $j" ?></td>
 		
 		<?php endfor; ?>
